@@ -1,2 +1,2 @@
-console.log("Juba");
-console.log(19);
+var a = pi;
+console.log(a);
